@@ -1,0 +1,342 @@
+{
+  "52": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 52,
+    "Name": "Geneva",
+    "Code": "Gva",
+    "Country": "CH",
+    "Parent": 52,
+    "Order": 0
+  },
+  "58": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 58,
+    "Name": "Chamonix",
+    "Code": "Chx",
+    "Country": "FR",
+    "Parent": 58,
+    "Order": 1
+  },
+  "59": {
+    "IsTransitPoint": true,
+    "TransitMethodId": 1,
+    "Id": 59,
+    "Name": "Geneva Airport",
+    "Code": "Gva",
+    "Country": "CH",
+    "Parent": 52,
+    "Order": 1
+  },
+  "60": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 60,
+    "Name": "Geneva Town Centre",
+    "Code": "Geneva",
+    "Country": "CH",
+    "Parent": 52,
+    "Order": 2
+  },
+  "61": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 61,
+    "Name": "Courmayeur",
+    "Code": "Courm",
+    "Country": null,
+    "Parent": 61,
+    "Order": 2
+  },
+  "64": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 64,
+    "Name": "Flaine",
+    "Code": "Fln",
+    "Country": "FR",
+    "Parent": 64,
+    "Order": 2
+  },
+  "67": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 67,
+    "Name": "St Gervais",
+    "Code": "St Ger / Les Cnt",
+    "Country": null,
+    "Parent": 67,
+    "Order": 2
+  },
+  "68": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 68,
+    "Name": "Les Contamines",
+    "Code": "St Ger / Les Cnt",
+    "Country": null,
+    "Parent": 68,
+    "Order": 2
+  },
+  "69": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 69,
+    "Name": "Megeve",
+    "Code": "Meg",
+    "Country": null,
+    "Parent": 69,
+    "Order": 2
+  },
+  "70": {
+    "IsTransitPoint": true,
+    "TransitMethodId": 1,
+    "Id": 70,
+    "Name": "Milan Malpensa Airport",
+    "Code": "MXP",
+    "Country": null,
+    "Parent": 70,
+    "Order": 2
+  },
+  "72": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 72,
+    "Name": "Morzine",
+    "Code": "PDS",
+    "Country": "FR",
+    "Parent": 72,
+    "Order": 2
+  },
+  "73": {
+    "IsTransitPoint": true,
+    "TransitMethodId": 1,
+    "Id": 73,
+    "Name": "Turin Airport",
+    "Code": "TRN",
+    "Country": "IT",
+    "Parent": 73,
+    "Order": 2
+  },
+  "74": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 74,
+    "Name": "Verbier",
+    "Code": "Verbs",
+    "Country": "CH",
+    "Parent": 74,
+    "Order": 2
+  },
+  "76": {
+    "IsTransitPoint": true,
+    "TransitMethodId": 1,
+    "Id": 76,
+    "Name": "Lyon Airport",
+    "Code": "LYS",
+    "Country": "FR",
+    "Parent": 76,
+    "Order": 2
+  },
+  "79": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 79,
+    "Name": "Zermatt (Tasch)",
+    "Code": "Zerm",
+    "Country": "CH",
+    "Parent": 79,
+    "Order": 2
+  },
+  "82": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 82,
+    "Name": "Les Praz",
+    "Code": "Chx",
+    "Country": null,
+    "Parent": 58,
+    "Order": 8
+  },
+  "86": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 86,
+    "Name": "Les Houches",
+    "Code": "Hou",
+    "Country": "FR",
+    "Parent": 58,
+    "Order": 1
+  },
+  "89": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 89,
+    "Name": "Le Tour",
+    "Code": "Chx",
+    "Country": null,
+    "Parent": 58,
+    "Order": 7
+  },
+  "95": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 95,
+    "Name": "Chamonix Town Centre",
+    "Code": "Chx",
+    "Country": "FR",
+    "Parent": 58,
+    "Order": 1
+  },
+  "99": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 99,
+    "Name": "Cluses",
+    "Code": "Cl",
+    "Country": "FR",
+    "Parent": 99,
+    "Order": 2
+  },
+  "103": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 103,
+    "Name": "Martigny",
+    "Code": "m",
+    "Country": null,
+    "Parent": 103,
+    "Order": 0
+  },
+  "104": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 104,
+    "Name": "Argentiere",
+    "Code": "Chx",
+    "Country": "FR",
+    "Parent": 58,
+    "Order": 2
+  },
+  "965": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 965,
+    "Name": "Milan",
+    "Code": "",
+    "Country": null,
+    "Parent": 965,
+    "Order": 2
+  },
+  "966": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 966,
+    "Name": "Aosta",
+    "Code": "Aos",
+    "Country": null,
+    "Parent": 966,
+    "Order": 1
+  },
+  "979": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 979,
+    "Name": "Annecy",
+    "Code": "Anc",
+    "Country": "FR",
+    "Parent": 979,
+    "Order": 1
+  },
+  "1037": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1037,
+    "Name": "Les Bossons",
+    "Code": "Chx",
+    "Country": null,
+    "Parent": 58,
+    "Order": 5
+  },
+  "1043": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1043,
+    "Name": "Lyon Centre",
+    "Code": "LYSC",
+    "Country": "FR",
+    "Parent": 1043,
+    "Order": 2
+  },
+  "1061": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1061,
+    "Name": "Bellegarde TGV",
+    "Code": "Bel",
+    "Country": "FR",
+    "Parent": 1061,
+    "Order": 2
+  },
+  "1216": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1216,
+    "Name": "Lausanne",
+    "Code": "Las",
+    "Country": "CH",
+    "Parent": 1216,
+    "Order": 2
+  },
+  "1269": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1269,
+    "Name": "Grenoble",
+    "Code": "Gr",
+    "Country": "FR",
+    "Parent": 1269,
+    "Order": 2
+  },
+  "1354": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1354,
+    "Name": "Aiglon",
+    "Code": "Aig",
+    "Country": "CH",
+    "Parent": 1354,
+    "Order": 0
+  },
+  "1356": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1356,
+    "Name": "Cervinia",
+    "Code": "Cer",
+    "Country": "IT",
+    "Parent": 1356,
+    "Order": 50
+  },
+  "1667": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 1667,
+    "Name": "Turin",
+    "Code": "T",
+    "Country": "IT",
+    "Parent": 1667,
+    "Order": 2
+  },
+  "3518": {
+    "IsTransitPoint": false,
+    "TransitMethodId": null,
+    "Id": 3518,
+    "Name": "Geneva Cornavin Train Station",
+    "Code": "Cornavin",
+    "Country": "CH",
+    "Parent": 52,
+    "Order": 1
+  }
+}

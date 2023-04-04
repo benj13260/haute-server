@@ -1,0 +1,16 @@
+Hacker: true
+database:
+  host: "localhost"
+  user: "postgres"
+  password: "postgres"
+  dbname: "postgres"
+  port: "5432"
+  lang: "en_US"
+  sslmode: disable
+  TimeZone: "Europe/Zurich"
+  ConcurrentProtected: false
+  MaxConcurrentCalls: 10
+  MaxConcurrentRequests: 200
+server:
+  port: 8080
+  health: 9999
