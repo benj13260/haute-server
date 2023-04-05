@@ -1,4 +1,4 @@
-# Docker
+# Run local DB with docker
 ```
 docker run --rm \
   -e POSTGRES_USER=postgres \
@@ -11,13 +11,12 @@ docker run --rm \
 ```
 
 
-  # Setup db
+  # Migrate db
   ```
-  CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
   go run db/migrate/migrate.go
   ``` 
 
-  # Go cmd
+  # Run server
   ```
   go mod init ben/haute
   go mod tidy
